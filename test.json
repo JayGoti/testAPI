@@ -1,4 +1,6 @@
 {
-	"isGoogleEnabled" : true,
-	"id1":"String1",
+	"title" : "NEWS TITLE",
+	"subtitle": "NEWS SUBTITLE",
+	"image" : "IMAGE LINK",
+	"body" : "CONTENT"
 }
